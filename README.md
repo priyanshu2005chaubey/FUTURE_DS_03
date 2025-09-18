@@ -74,8 +74,12 @@ Student Feedback – Contains open-ended responses where students shared their t
 You can find the complete code, analysis, and visualizations in this repository. Feel free to explore, give feedback, or suggest improvements!
 ## 📂 Project Files
 
+## 📂 Project Files
+
 - 📊 [Student Satisfaction Survey Dataset](Student_Satisfaction_Survey.csv)
 - 📊 [Student Feedback Dataset](student_feedback.csv)
 - 📒 [Google Colab (Analysis Code)](notebooks/FUTURE_DS_03.ipynb)
+- 📑 [Final Report (PDF)](College_Event_Feedback_Analysis_Report.pdf)
+
 
  
